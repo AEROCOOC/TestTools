@@ -210,7 +210,7 @@ with open("./Test_csv_json_xml_pkl/new_data.xml", "w+") as xml_file:
 ## pkl格式
 
 ```python
-import _pickle as pickle
+import _pickle as cPickle
 ```
 
 ### 读取pkl
